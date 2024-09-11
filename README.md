@@ -2,7 +2,7 @@
 
 #### Estudante de Análise e Desenvolvimento de Sistemas na FIAP, 21 anos.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guh99998&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=guh99998&hide=stylus,blade,jupyter%20notebook&theme=algolia&show_icons=true)
 
 ## Redes
 
