@@ -1,6 +1,6 @@
 # Gustavo Rodrigues Lopes
 
-#### Estudante de Análise e Desenvolvimento de Sistemas na FIAP, 21 anos.
+#### Estudante de Análise e Desenvolvimento de Sistemas na FIAP, 23 anos.
 
 ![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=guh99998&hide=stylus,blade,jupyter%20notebook&theme=algolia&show_icons=true)
 
